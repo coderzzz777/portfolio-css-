@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+     background-color: rgb(47, 107, 89);
+
+}
+
+li {
+    display: inline;
+    background-color: turquoise;
+    color: grey;
+}
+.title {
+     background-color: yellow;
+    font-size: larger;
+    margin-left: 5% ;
+}
+nav {
+    font-size:larger ;
+}
+.bonjour {
+    font-size:30px;
+    color: bisque;
+}
